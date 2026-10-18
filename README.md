@@ -6,8 +6,8 @@
 
 | CTF | Решено | Незавершённые |
 |---|---:|---:|
-| [SolarCTF](SolarCTF/README.md) | 10 | 5 |
-| [KubCTF](KubCTF/README.md) | 13 | 6 |
+| [SolarCTF2026](SolarCTF2026/README.md) | 10 | 5 |
+| [KubCT2026F](KubCTF2026/README.md) | 13 | 6 |
 
 Решённые задачи и незавершённые разборы отмечены отдельно в оглавлениях турниров.
 
